@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Credentials
+*.pem
+*.key
+secrets/
+credentials/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local databases and uploads
+*.sqlite
+*.db
+uploads/
