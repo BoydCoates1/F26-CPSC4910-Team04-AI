@@ -35,10 +35,10 @@ When something does not work:
 - Do not repeatedly submit if the website may already have created an order. First check order history.
 
 ## Report appears empty or incorrect
-- Verify the date range.
-- Verify the selected sponsor and driver filters.
-- Check the selected report category and detailed/summary view.
-- Confirm whether the report includes the dates at the beginning and end of the selected range.
+- For the sponsor's **Driver Point Tracking** report, verify the driver and date filters.
+- For an administrator's **Sales Report**, verify the sponsor, date range, and Summary/Detailed selection.
+- For **Audit Logs**, verify the category, account, maker, date, and company filters available to the administrator.
+- Confirm the filters shown on the page before drawing conclusions.
 
 ## When to escalate
 Escalate to program support or an authorized administrator if:

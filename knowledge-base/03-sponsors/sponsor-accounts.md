@@ -9,20 +9,13 @@ A sponsor may have multiple sponsor-user logins. The project requirements state 
 Sponsor users should only access information and perform actions for their own sponsor organization, except where the website explicitly grants broader administrator access.
 
 ## Signing in
-Use the account identifier and password requested by the website. The website should identify the sponsor role from the account rather than asking the user to select a role at login.
+The login form asks for a username and password; it does not ask users to select a role.
 
 ## Updating sponsor information
-1. Sign in with a sponsor-user account.
-2. Open the sponsor profile, organization settings, or account area.
-3. Review the information available to edit.
-4. Make the necessary changes and save.
-
-[CONFIRM IN WEBSITE: Which sponsor details can be edited and which sponsor users have permission.]
+Use **Profile** and **Settings** for your own account details. Do not assume that these pages edit organization-wide sponsor information.
 
 ## Creating another sponsor user
-The project requirements allow sponsor users to create additional sponsor users for the same sponsor. Use the user-management option if it is available and follow the website's validation and invitation/creation steps.
-
-[CONFIRM IN WEBSITE: Exact workflow, required fields, and whether the new user receives an invitation or initial password.]
+From **Dashboard**, use the **Sponsors** section's **Add sponsor** control to invite a sponsor user. The invitation emails the new user a link to set a password. Do not promise invitation delivery; ask the recipient to check their email and spam folder.
 
 ## Account security
 Do not share passwords. Use the approved password-change or reset process. Never store credentials in a shared document or send them to the chatbot.

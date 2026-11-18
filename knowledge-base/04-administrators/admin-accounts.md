@@ -1,25 +1,16 @@
 # Administrator Accounts
 
 ## Administrator role
-An administrator is a platform-level user. Administrators can manage driver, sponsor, and admin users; add users; review and update relevant account information; and generate administrative reports.
-
-Administrators have broader access than drivers and sponsor users. Use that access only for legitimate platform-management purposes.
+Administrators see **Security**, **Accounts**, and **Banner** in the main navigation. Their dashboard also provides account, driver-point, banner, security, audit-log, sales-report, and application actions. Access and available actions depend on the administrator account.
 
 ## Signing in
-Use the administrator account credentials. The login page should identify the role from the account rather than asking the user to choose a user type.
+Use the administrator account credentials in the **Log in** form, which asks for a username and password and does not ask the user to select a role.
 
 ## Updating your profile
-1. Sign in as an administrator.
-2. Open the profile or account settings area.
-3. Update the fields the website allows.
-4. Save and verify the changes.
-
-[CONFIRM IN WEBSITE: Exact profile fields and navigation.]
+Open the profile menu by selecting your username, choose **Profile**, then choose **Edit**. Update fields the page allows and verify the saved information.
 
 ## Creating another administrator
-The project requirements allow administrators to add new administrators. Use the administrator user-management process if available.
-
-[CONFIRM IN WEBSITE: Required fields, invitation or password setup, and any approval safeguards.]
+The public **Create account** form does not offer Administrator. Do not promise that an administrator can self-create another administrator account; use only the authorized account-management process available to your organization.
 
 ## Security
 Use a strong password, never share credentials, and sign out on shared devices. Do not use impersonation as a substitute for signing in with your own administrator account.

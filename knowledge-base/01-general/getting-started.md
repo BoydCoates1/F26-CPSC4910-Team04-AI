@@ -1,27 +1,23 @@
 # Getting Started
 
 ## Before signing in
-You need an account created or enabled for the program. The way an account is obtained depends on your role:
+You need an account created or enabled for the program:
 
-- **Drivers:** A driver may need to apply to a sponsor. The sponsor controls whether to accept the application. Do not promise that submitting an application automatically creates an active sponsor relationship.
-- **Sponsor users:** Sponsor accounts are managed by the sponsor organization. The project requirements say sponsor users are self-managed within their sponsor and do not use the driver registration/application process.
-- **Administrators:** An administrator account is created by an existing authorized administrator or through the platform's administrative process.
+- **Drivers:** Choose **Driver** on **Create account**. When the form offers sponsors, select the sponsor you drive for. Your sponsor reviews the application; submitting it does not mean you have been accepted.
+- **Sponsors:** Choose **Sponsor** on **Create account** if self-registration is available. Sponsor users may also be invited by an existing sponsor user or created by an administrator.
+- **Administrators:** Administrator is not an option on the public **Create account** form. Contact an authorized administrator about administrator access.
 
 ## Signing in
 1. Open the program website.
-2. Enter the username or email and password requested by the sign-in page.
+2. Select **Log in** and enter your username and password.
 3. Submit the sign-in form.
-4. If sign-in fails, check the spelling of the account identifier, confirm that Caps Lock is off, and use the password-reset process if available.
+4. If enabled for your account, you may also see passkey or external sign-in options.
+5. If sign-in fails, check the username spelling, confirm that Caps Lock is off, and use **Forgot your password?** if needed.
 
-The login page is not intended to ask users to select Driver, Sponsor, or Admin. Your account determines the pages and actions available to you.
+You do not select a role on the login page. Your account determines the pages and actions available to you.
 
 ## After signing in
-Look for the navigation and dashboard options available to your account. Common tasks include:
-- Reviewing your profile.
-- Checking points or driver status.
-- Viewing products or orders (drivers).
-- Managing drivers, points, products, or reports (sponsor users).
-- Managing platform users, sponsors, or reports (administrators).
+Use `website-navigation.md` for verified role-specific paths. In brief, signed-in users have **Products**, **Dashboard**, **Profile**, and **Settings**; drivers also have **Points** and **Achievements**, sponsors use dashboard quick actions and sections for drivers, sponsor users, reports and catalog, and administrators have account, security, banner, audit, report, and application controls.
 
 ## Account safety
 - Do not share your password.

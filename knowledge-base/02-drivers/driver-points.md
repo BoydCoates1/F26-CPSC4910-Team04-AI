@@ -6,22 +6,15 @@ Points are program rewards credited to a driver's account for behaviors the spon
 Points are used to request eligible products from the driver's sponsor catalog. They should not be described as cash.
 
 ## Viewing a balance and point history
-A driver should be able to review their current point status. The point history is intended to show additions and deductions and, where available, the date and reason for each change.
+Drivers can open **Points** from the main navigation to review their balance, monthly earned points, all-time totals, and point history. CSV and PDF downloads are available.
 
 To review points:
 1. Sign in as a driver.
-2. Open the points, rewards, or account area.
-3. Review the displayed available balance.
-4. Open the point history or transaction list to understand past changes.
-
-[CONFIRM IN WEBSITE: Exact menu labels, whether pending points are shown separately, and which history columns are visible.]
+2. Choose **Points** in the main navigation.
+3. Review the balance and history; use the CSV or PDF download if needed.
 
 ## Why points may change
-Possible reasons include:
-- A sponsor awards points for good driving or another qualifying activity.
-- A sponsor deducts points for a behavior or event.
-- A recurring point-award rule adds points automatically, if configured and available.
-- A correction is made by an authorized sponsor user.
+Points may be added or deducted by an authorized sponsor user. A sponsor may also configure monthly point awards for active drivers. Check the history for the recorded date and reason; do not assume why a transaction occurred if no reason is shown.
 
 The project requirements state that a reason must be recorded for each sponsor-initiated point change.
 
@@ -29,7 +22,7 @@ The project requirements state that a reason must be recorded for each sponsor-i
 Review the transaction date and reason shown with the deduction. If the reason is unclear or appears incorrect, contact the sponsor. The chatbot cannot independently verify driving events or change a point balance.
 
 ## Point value
-The specified default value is $0.01 per point. Sponsors may set a different point value. This is a program valuation used for the incentive catalog; it does not mean that drivers can withdraw points as cash.
+The project brief specifies a default value of $0.01 per point, but that does not confirm the value used for every sponsor or purchase. Points are program rewards, not cash, and should not be described as withdrawable money.
 
 ## If the balance looks wrong
 1. Refresh the points page and sign in again if needed.

@@ -16,15 +16,15 @@ Start with:
 1. `06-chatbot/chatbot-instructions.md`
 2. `01-general/about-the-platform.md`
 3. `01-general/getting-started.md`
-4. The relevant role-specific documents.
+4. `01-general/website-navigation.md`
+5. The relevant role-specific documents.
 
 ## Important accuracy note
-The source project brief describes required behavior. The supplied work-item export contains 139 records: 60 marked New, 59 marked Active, and 20 marked Removed. It contains no records marked Completed or Closed. Work-item states and assignments do not prove that a feature is or is not working in the deployed website.
-
-For that reason, these documents explain intended workflows while clearly identifying details that must be confirmed in the live website. They do not claim that every requirement has been implemented. Before publishing the chatbot, replace any `[CONFIRM IN WEBSITE]` notes with verified, current instructions or retain them as guidance for the chatbot not to overstate.
+The website's current interface and behavior are the source for exact navigation and implemented workflows. The project brief describes requirements, not proof that a requirement is available in the website. Articles identify uncertain or policy-dependent details rather than presenting them as confirmed. Where a user reports that their live interface differs, direct them to the controls currently visible to them and do not invent steps.
 
 ## Document map
 - `01-general/`: shared platform information and terminology.
+- `01-general/website-navigation.md`: role-based menu labels and paths through the current interface.
 - `02-drivers/`: driver account, points, products, orders, and notifications.
 - `03-sponsors/`: sponsor account, driver management, points, products, reports, and notifications.
 - `04-administrators/`: administrator account and platform-management tasks.

@@ -1,41 +1,28 @@
 # Managing the Sponsor Product Catalog
 
 ## Overview
-Each sponsor maintains its own catalog of incentive products. Drivers can browse and redeem points only against the catalog associated with their sponsor.
+Each sponsor maintains its own catalog of incentive products. Drivers browse the catalog associated with their currently selected sponsor.
 
-The project requirements specify that catalog products must be G- or PG-rated and that product information must come from a publicly accessible product API.
+The project requirements specify G- or PG-rated catalog products. Do not assume a rating or source if it is not shown for a product.
 
 ## Product information
-The catalog may include:
-- Product name.
-- Description.
-- Images.
-- Current price or points required.
-- Availability.
-- Other information supplied by the provider.
-
-Product pricing and availability can change at the third-party provider. The website is expected to retrieve current information and refresh it in real time. It should check current price and availability when a product is added to a driver's purchase set or cart.
+The catalog displays products and their details. Use the current information shown in the website; do not promise a price or availability that may have changed.
 
 ## Adding a product
-1. Sign in as a sponsor user.
-2. Open the product catalog management area.
-3. Search or browse the available provider products.
-4. Review the product details, rating/content suitability, price, and availability.
-5. Add the desired product to your sponsor catalog using the website's available action.
-6. Confirm that the product appears in the sponsor catalog.
-
-[CONFIRM IN WEBSITE: Product provider, search interface, add flow, and whether the website prevents duplicate catalog entries.]
+1. Sign in as a sponsor user and open **Dashboard**.
+2. Choose the **Catalog** quick action.
+3. Select **Add products** to browse the product list.
+4. Open a product and choose **Add to catalog**.
+5. Return to the catalog and confirm that the product appears.
 
 ## Updating or removing a product
-Use the catalog-management options to edit or remove products where available. Review the effect on existing orders before removing a product.
-
-[CONFIRM IN WEBSITE: Which fields can be edited manually and which are synchronized from the provider.]
+Use the catalog page's available remove control to remove an item. Do not assume product details can be edited unless the page offers that action.
 
 ## Price and availability
-Do not rely on an old price or availability value. The current provider information shown during the purchase process should be treated as authoritative. A sponsor should not promise a product that the provider reports as unavailable.
+Do not rely on old price or availability information. Use the current details shown in the website.
 
 ## Content restrictions
 The project requirements limit products to G- or PG-rated content. If a product's rating is missing or unclear, do not assume it qualifies; follow the program's catalog review policy.
 
-## Third-party fulfillment
-Products are supplied and delivered through a third party. Sponsors should use the order information and provider process available in the website for fulfillment questions.
+## Fulfillment
+Project materials describe third-party fulfillment, but confirm the provider and process from the current order information. Do not promise delivery or support details not displayed by the website.

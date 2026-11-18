@@ -2,20 +2,20 @@
 
 ## I cannot sign in
 Try these steps:
-1. Check that you are using the correct username or email address.
+1. Check that you are using the correct username. The current login form asks for a username and password.
 2. Check for typing errors and make sure Caps Lock is off.
 3. Confirm that you are using the correct account for this website.
 4. Try the password-reset option if you cannot remember your password.
 5. If the website reports that the account is unavailable or disabled, contact the sponsor or program support.
 
 ## I forgot my password
-1. Open the website's password-reset option.
-2. Enter the account identifier requested.
+1. On **Log in**, choose **Forgot your password?**
+2. Follow the reset form's instructions.
 3. Follow the instructions sent or displayed by the reset process.
 4. Create a new password that meets the website's complexity requirements.
 5. Return to the sign-in page and use the new password.
 
-[CONFIRM IN WEBSITE: Exact reset steps, verification channel, expiration time, and support contact.]
+The exact verification channel and reset-link lifetime depend on the current reset flow; follow the messages shown by the website.
 
 ## Password requirements
 The application is required to enforce password complexity and securely protect passwords. Follow the requirements displayed by the website when creating or changing a password.
